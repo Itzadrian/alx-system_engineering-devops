@@ -6,3 +6,4 @@
 5-listfilesdigitonly scripts is used to list files with user groups and ids
 6-firstdirectory script is used to create a directory in /tmp/
 7-movethatfile script is used to move a file
+8-firstdelete script used to delete file
