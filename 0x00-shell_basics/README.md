@@ -13,3 +13,8 @@
 11-lists script is used to list files in working direction including hidden ones and files in parent directory and /boot directory
 13-symbolic_link is used to create a symbolic link to /bin/ls
 14-copy_html script is used to copy only html files to parent directory
+100-lets_move scripts to move all files that start with uppercase to a folder
+101-clean_emacs deletes all files in the current working directory that ends with ~
+102-tree script to create multiple directories
+103-commas scripts list all files and directories separated by commas
+school.mgc script is used to create magic file
