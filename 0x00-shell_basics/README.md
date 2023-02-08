@@ -12,3 +12,4 @@
 9-firstdirdeletion script is used to remove directories
 11-lists script is used to list files in working direction including hidden ones and files in parent directory and /boot directory
 13-symbolic_link is used to create a symbolic link to /bin/ls
+14-copy_html script is used to copy only html files to parent directory
