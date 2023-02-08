@@ -9,3 +9,4 @@
 8-firstdelete script used to delete file
 10-back is a script that changes a working directory to the previous one
 12-file-type is a script to print file type
+9-firstdirdeletion script is used to remove directories
