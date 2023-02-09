@@ -9,3 +9,6 @@
 8-James_Bond script used to give zero permission to owner and group and all permission to others
 9-John_Doe script used to set mode for a file
 10-mirror_permissions script used to mirror file permission
+11-directories_permissions script to change subdirectory permission
+12-directory_permissions used to make a dir and give it permissions
+13-change_group script to change group of file
