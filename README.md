@@ -1,1 +1,1 @@
-Repo containing shell basics scripts
+Repo containing shell basics scripts and shell permissions
