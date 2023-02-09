@@ -4,3 +4,8 @@
 3-new_owner used to change ownership of a file
 4-empty script to create an empty file
 5-execute script used to give file owner execute permission
+6-multiple_permissions to giver multiple users permissions
+7-everybody script used to give permission to all
+8-James_Bond script used to give zero permission to owner and group and all permission to others
+9-John_Doe script used to set mode for a file
+10-mirror_permissions script used to mirror file permission
