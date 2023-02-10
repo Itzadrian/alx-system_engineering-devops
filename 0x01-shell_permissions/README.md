@@ -13,3 +13,6 @@
 12-directory_permissions used to make a dir and give it permissions
 13-change_group script to change group of fil
 103-Star_Wars script used to watch star wars episode iv in terminal
+102-if_only script to change ownership of file if its owned by a particular user
+101-symbolic_link_permissions script used to change permissions of symbolic links
+100-change_owner_and_group script used to change user and owner of directories and subdirectories in working directory
