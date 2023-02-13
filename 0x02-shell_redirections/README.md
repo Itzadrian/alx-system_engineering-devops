@@ -9,3 +9,4 @@
 8-cwd_state it writes into a file
 9-duplicate_last_line dulplicates last line of a file
 10-no_more_js used to delete all files with an extension in current directories and sub directories
+11-directories used to count directories and sub directories
