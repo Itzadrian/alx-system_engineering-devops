@@ -5,3 +5,7 @@
 4-lastlines print last 10 lines of a files
 5-firstlines print the furst 10 lines of a file
 6-third_line to print specific lines of a file
+7-file create a file with special characters as name
+8-cwd_state it writes into a file
+9-duplicate_last_line dulplicates last line of a file
+10-no_more_js used to delete all files with an extension in current directories and sub directories
