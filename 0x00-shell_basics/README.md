@@ -1,7 +1,11 @@
-0-current_working_directory script used to print absolute path name of current working directory
-1-listit script used to display contents list of current directory
-2-bring_me_home script is used to change working directory to home directory
-3-listfiles script is used to list content in directory in long form
+<h1>Shell Basics Scripts</h1>
+<ul>
+    <li>0-current_working_directory script used to print absolute path name of current working directory
+    </li>
+    <li>1-listit script used to display contents list of current directory</li>
+    <li>2-bring_me_home script is used to change working directory to home directory</li>
+    <li>3-listfiles script is used to list content in directory in long form</li>
+</ul>
 4-listmorefiles script is used to list all content in a directory including hidden ones
 5-listfilesdigitonly scripts is used to list files with user groups and ids
 6-firstdirectory script is used to create a directory in /tmp/
